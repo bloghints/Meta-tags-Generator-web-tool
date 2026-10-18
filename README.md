@@ -1,1 +1,1 @@
-# Meta-tags-Generator-web-tool
+# Meta Tags Generator (Light & Fast)
